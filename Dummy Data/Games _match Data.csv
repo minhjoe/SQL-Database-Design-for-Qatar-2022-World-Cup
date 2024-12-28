@@ -1,0 +1,65 @@
+﻿Game_ID,Game_Ticket_ID,Category,Team,Stadium_name,Capacity
+1,13462,Group A,QATAR vs ECUADOR,Lusail Stadium,80000
+2,23462,Group B,ENGLAND vs IRAN,AI Thumama Stadium,40000
+3,33462,Group A,SENEGAL vs NETHERLANDS,Lusail Stadium,80000
+4,43462,Group B,UNITED STATES vs WALES,AI Thumama Stadium,40000
+5,53462,Group C,ARGENTINA vs SAUDI ARABIA,AI Thumama Stadium,40000
+6,63462,Group D,DENMARK vs TUNISIA,Lusail Stadium,80000
+7,73462,Group C,MEXICO vs POLAND,AI Thumama Stadium,40000
+8,83462,Group D,FRANCE vs AUSTRALIA,AI Thumama Stadium,40000
+9,93462,Group F,MOROCCO vs CROATIA,Education City Stadium,40000
+10,103462,Group E,GERMANY vs JAPAN,Lusail Stadium,80000
+11,113462,Group E,SPAIN vs COSTA RICA,Khalifa International Stadium,40000
+12,123462,Group F,BELGIUM vs CANADA,Ai Bayt Stadium,60000
+13,133462,Group G,SWITZERLAND vs CAMEROON,Khalifa International Stadium,40000
+14,143462,Group H,URUGUAY vs KOREA REPUBLIC,Lusail Stadium,80000
+15,153462,Group H,PORTUGAL vs GHANA,Ai Bayt Stadium,60000
+16,163462,Group G,BRAZIL vs SERBIA,Stadium 974,40000
+17,173462,Group B,WALES vs IRAN,Ai Bayt Stadium,60000
+18,183462,Group A,QATAR vs SENEGAL,Ahmad Bin Ali Stadium,40000
+19,193462,Group A,NETHERLANDS vs ECUADOR,Ahmad Bin Ali Stadium,40000
+20,203462,Group B,ENGLAND vs UNITED STATES,Stadium 974,40000
+21,213462,Group D,TUNISIA vs AUSTRALIA,Stadium 974,40000
+22,223462,Group C,POLAND vs SAUDI ARABIA,AI Janoub Stadium,40000
+23,233462,Group D,FRANCE vs DENMARK,Ahmad Bin Ali Stadium,40000
+24,243462,Group C,ARGENTINA vs MEXICO,Ahmad Bin Ali Stadium,40000
+25,253462,Group E,JAPAN vs COSTA RICA,AI Janoub Stadium,40000
+26,263462,Group F,BELGIUM vs MOROCCO,Ahmad Bin Ali Stadium,40000
+27,273462,Group F,CROATIA vs CANADA,AI Janoub Stadium,40000
+28,283462,Group E,SPAIN vs GERMANY,Stadium 974,40000
+29,293462,Group G,CAMEROON vs SERBIA,Ai Bayt Stadium,60000
+30,303462,Group H,KOREA REPUBLIC vs GHANA,Ahmad Bin Ali Stadium,40000
+31,313462,Group G,BRAZIL vs SWITZERLAND,Ahmad Bin Ali Stadium,40000
+32,323462,Group H,PORTUGAL vs URUGUAY,AI Janoub Stadium,40000
+33,333462,Group A,NETHERLANDS vs QATAR,Khalifa International Stadium,40000
+34,343462,Group A,ECUADOR vs SENEGAL,AI Janoub Stadium,40000
+35,353462,Group B,WALES vs ENGLAND,Khalifa International Stadium,40000
+36,363462,Group B,IRAN vs UNITED STATES,Khalifa International Stadium,40000
+37,373462,Group D,AUSTRALIA vs DENMARK,Ai Bayt Stadium,60000
+38,383462,Group D,TUNISIA vs FRANCE,Khalifa International Stadium,40000
+39,393462,Group C,POLAND vs ARGENTINA,Khalifa International Stadium,40000
+40,403462,Group C,SAUDI ARABIA vs MEXICO,Education City Stadium,40000
+41,413462,Group F,CROATIA vs BELGIUM,Ai Bayt Stadium,60000
+42,423462,Group F,CANADA vs MOROCCO,Education City Stadium,40000
+43,433462,Group E,JAPAN vs SPAIN,Education City Stadium,40000
+44,443462,Group E,COSTA RICA vs GERMANY,Ai Bayt Stadium,60000
+45,453462,Group H,GHANA vs URUGUAY,Education City Stadium,40000
+46,463462,Group H,KOREA REPUBLIC vs PORTUGAL,Education City Stadium,40000
+47,473462,Group G,SERBIA vs SWITZERLAND,Stadium 974,40000
+48,483462,Group G,CAMEROON vs BRAZIL,Stadium 974,40000
+49,493462,Round of 16 ,Winner 1A vs Winner 2B,AI Thumama Stadium,40000
+50,503462,Round of 16 ,Winner 1C vs Winner 2D,AI Janoub Stadium,40000
+51,513462,Round of 16 ,Winner 1E vs Winner 2F,Ahmad Bin Ali Stadium,40000
+52,523462,Round of 16 ,Winner 1H vs Winner 2G,Lusail Stadium,80000
+53,533462,Round of 16 ,Winner 2A vs Winner 1B,Khalifa International Stadium,40000
+54,543462,Round of 16 ,Winner 2C vs Winner 1D,Ai Bayt Stadium,60000
+55,553462,Round of 16 ,Winner 2E vs Winner 1F,Education City Stadium,40000
+56,563462,Round of 16 ,Winner 2H vs Winner 1G,Stadium 974,40000
+57,573462,Quarter-final,Winner A vs Winner B,Education City Stadium,40000
+58,583462,Quarter-final,Winner C vs Winner D,Ai Bayt Stadium,60000
+59,593462,Quarter-final,Winner E vs Winner F,Lusail Stadium,80000
+60,603462,Quarter-final,Winner G vs Winner H,AI Thumama Stadium,40000
+61,613462,Semi-final,Winner A vs Winner C,Ai Bayt Stadium,60000
+62,623462,Semi-final,Winner F vs Winner H,Lusail Stadium,80000
+63,633462,Play-off for third place,Loser A vs Loser H,Khalifa International Stadium,40000
+64,643462,Final,Winner A vs Winner H,Lusail Stadium,80000

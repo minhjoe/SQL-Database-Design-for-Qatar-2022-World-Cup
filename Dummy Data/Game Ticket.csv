@@ -1,0 +1,65 @@
+Game_ticket_ID,Ticket_type_ID,Team,Stadium_name,Seat_location
+13462,14565132,"QATAR vs ECUADOR","Lusail Stadium",4C
+23462,24565132,"ENGLAND vs IRAN","AI Thumama Stadium",4A
+33462,34565132,"SENEGAL vs NETHERLANDS","Lusail Stadium",7B
+43462,44565132,"UNITED STATES vs WALES","AI Thumama Stadium",8D
+53462,54565132,"ARGENTINA vs SAUDI ARABIA","AI Thumama Stadium",10A
+63462,64565132,"DENMARK vs TUNISIA","Lusail Stadium",11B
+73462,74565132,"QATAR vs ECUADOR","AI Thumama Stadium",12F
+83462,84565132,"FRANCE vs AUSTRALIA","AI Thumama Stadium",15E
+93462,94565132,"MOROCCO vs CROATIA","Education City Stadium",18E
+103462,104565132,"GERMANY vs JAPAN","Lusail Stadium",19K
+113462,114565132,"ENGLAND vs IRAN","Khalifa International Stadium",20E
+123462,124565132,"BELGIUM vs CANADA","Ai Bayt Stadium",25J
+133462,14565132,"SWITZERLAND vs CAMEROON","Khalifa International Stadium",27U
+143462,24565132,"ENGLAND vs IRAN","Lusail Stadium",18I
+153462,34565132,"ENGLAND vs IRAN","Ai Bayt Stadium",19K
+163462,44565132,"QATAR vs ECUADOR","Stadium 974",14L
+173462,54565132,"UNITED STATES vs WALES","Ai Bayt Stadium",13K
+183462,64565132,"QATAR vs ECUADOR","Ahmad Bin Ali Stadium",12T
+193462,74565132,"NETHERLANDS vs ECUADOR","Ahmad Bin Ali Stadium",13M
+203462,84565132,"ENGLAND vs UNITED STATES","Stadium 974",12N
+213462,94565132,"UNITED STATES vs WALES","Stadium 974",14B
+223462,104565132,"UNITED STATES vs WALES","AI Janoub Stadium",12J
+233462,114565132,"SPAIN vs GERMANY","Ahmad Bin Ali Stadium",24A
+243462,124565132,"ARGENTINA vs MEXICO","Ahmad Bin Ali Stadium",26F
+253462,94565132,"QATAR vs ECUADOR","AI Janoub Stadium",27G
+263462,104565132,"SPAIN vs GERMANY","Ahmad Bin Ali Stadium",28E
+273462,114565132,"UNITED STATES vs WALES","AI Janoub Stadium",29D
+283462,124565132,"SPAIN vs GERMANY","Stadium 974",30A
+293462,14565132,"UNITED STATES vs WALES","Ai Bayt Stadium",31A
+303462,24565132,"SPAIN vs GERMANY","Ahmad Bin Ali Stadium",32B
+313462,34565132,"SPAIN vs GERMANY","Ahmad Bin Ali Stadium",33C
+323462,44565132,"GHANA vs URUGUAY","AI Janoub Stadium",41S
+333462,54565132,"NETHERLANDS vs QATAR","Khalifa International Stadium",26H
+343462,104565132,"GHANA vs URUGUAY","AI Janoub Stadium",27F
+353462,114565132,"GHANA vs URUGUAY","Khalifa International Stadium",28F
+363462,124565132,"GHANA vs URUGUAY","Khalifa International Stadium",23Q
+373462,94565132,"AUSTRALIA vs DENMARK","Ai Bayt Stadium",23W
+383462,104565132,"SENEGAL vs NETHERLANDS","Khalifa International Stadium",23E
+393462,114565132,"ARGENTINA vs MEXICO","Khalifa International Stadium",21Z
+403462,124565132,"ARGENTINA vs MEXICO","Education City Stadium",21X
+413462,14565132,"ARGENTINA vs MEXICO","Ai Bayt Stadium",21C
+423462,24565132,"ARGENTINA vs MEXICO","Education City Stadium",11Z
+433462,34565132,"ARGENTINA vs MEXICO","Education City Stadium",11F
+443462,44565132,"ARGENTINA vs MEXICO","Ai Bayt Stadium",11G
+453462,54565132,"GHANA vs URUGUAY","Education City Stadium",11F
+463462,104565132,"SENEGAL vs NETHERLANDS","Education City Stadium",12Q
+473462,114565132,"SENEGAL vs NETHERLANDS","Stadium 974",12D
+483462,124565132,"SENEGAL vs NETHERLANDS","Stadium 974",60A
+493462,94565132,"Winner 1A vs Winner 2B","AI Thumama Stadium",63D
+503462,104565132,"Winner 1C vs Winner 2D","AI Janoub Stadium",32C
+513462,114565132,"Winner 1E vs Winner 2F","Ahmad Bin Ali Stadium",25R
+523462,124565132,"Winner 1H vs Winner 2G","Lusail Stadium",26T
+533462,94565132,"Winner 2A vs Winner 1B","Khalifa International Stadium",54G
+543462,104565132,"Winner 2C vs Winner 1D","Ai Bayt Stadium",55H
+553462,114565132,"Winner 2E vs Winner 1F","Education City Stadium",56H
+563462,124565132,"Winner 2H vs Winner 1G","Stadium 974",51F
+573462,14565132,"Winner A vs Winner B","Education City Stadium",52D
+583462,24565132,"Winner C vs Winner D","Ai Bayt Stadium",53C
+593462,34565132,"Winner E vs Winner F","Lusail Stadium",54C
+603462,44565132,"Winner G vs Winner H","AI Thumama Stadium",53A
+613462,54565132,"Winner A vs Winner C","Ai Bayt Stadium",58C
+623462,104565132,"Winner F vs Winner H","Lusail Stadium",58X
+633462,114565132,"Loser A vs Loser H","Khalifa International Stadium",59Z
+643462,124565132,"Winner A vs Winner H","Lusail Stadium",57Y

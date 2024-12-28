@@ -1,0 +1,13 @@
+﻿Ticket_type_ID,Ticket_type_description,Ticket_type_price,Ticket_type_category,Seat_section_with_in_each_category
+14565132,1 match / 1 Individual ,100,Individual Match Tickets,Center of field (think 18 to 18)
+24565132,4 random tickets for 4 different stadium,200,Four-Stadium Tickets,Corners
+34565132,Team you love,70,Team Specific Ticket,Behind the goal
+44565132,Disabled people or limited mobility,50,Accessibility Tickets,Behind the goal
+54565132,1 match / 1 Individual ,80,Individual Match Tickets,Corners
+64565132,4 random tickets for 4 different stadium,300,Four-Stadium Tickets,Center of field (think 18 to 18)
+74565132,Team you love,65,Team Specific Ticket,Corners
+84565132,Disabled people or limited mobility,40,Accessibility Tickets,Corners
+94565132,1 match / 1 Individual ,90,Individual Match Tickets,Behind the goal
+104565132,4 random tickets for 4 different stadium,230,Four-Stadium Tickets,Behind the goal
+114565132,Team you love,90,Team Specific Ticket,Center of field (think 18 to 18)
+124565132,Disabled people or limited mobility,60,Accessibility Tickets,Center of field (think 18 to 18)
