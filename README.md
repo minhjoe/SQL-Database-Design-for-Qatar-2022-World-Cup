@@ -20,6 +20,12 @@ This project involves designing and implementing a structured database to suppor
 
 ---
 
+## Note on Data  
+
+The data used for this analysis is **dummy data**, created specifically for this project, as actual data from the Qatar 2022 World Cup ticketing system is not publicly available. This dummy data has been designed to closely resemble real-world scenarios and challenges, enabling the demonstration of SQL skills to solve practical business problems. 
+
+---
+
 ## Tasks  
 
 ### SQL Database Design and Implementation  
